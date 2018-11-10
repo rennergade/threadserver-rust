@@ -1,0 +1,6 @@
+[package]
+name = "threadserver"
+version = "0.1.0"
+authors = ["Nicholas Smith Renner <nrenner@seas.upenn.edu>"]
+
+[dependencies]
